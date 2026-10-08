@@ -1,1 +1,18 @@
 
+Problem Statement
+Hospital Patient Management System using Linked List
+Develop a simple C++ Hospital Patient Management System using a singly linked list. The 
+system should allow the user to:
+Add a new patient with Patient ID and Name.
+Display all patient records.
+Search for a patient using Patient ID.
+Exit the system.
+The patient records are stored using nodes of a linked list, where each node contains the 
+patient ID, patient name, and a pointerto the next patient.
+
+Objective
+1.To develop a simple Hospital Patient Management System using C++.
+2.To implement a singly linked list for storing patient records.
+3.To add and store patient details such as ID and name.
+4.To display all patient records efficiently.
+5.To search for a patient using their Patient ID.
