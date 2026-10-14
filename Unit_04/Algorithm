@@ -1,0 +1,10 @@
+Algorithm
+
+Start the program.
+Create a doubly linked list for the first polynomial.
+Enter the coefficients and powers of each term.
+Create another doubly linked list for the second polynomial.
+Add the terms of both polynomials.
+Multiply the coefficients and add the powers of the terms.
+Display the addition and multiplication results.
+Stop the program.
