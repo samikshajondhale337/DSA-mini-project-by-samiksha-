@@ -1,0 +1,6 @@
+Objectives
+1. To implement deletion of a node having exactly one child in an AVL tree.
+2. To update and display the heights and balance factors after deletion.
+3. To identify and log the rotations performed to maintain AVL tree balance.
+4. To handle deletion when the specified key is missing.
+5. To maintain the AVL tree property after deletion.
