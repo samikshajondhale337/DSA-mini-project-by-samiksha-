@@ -1,0 +1,6 @@
+# Problem Statement
+
+Write a C++ program to delete a node having exactly one child from an AVL tree. After 
+deletion, update and display the heights and balance factors of affected nodes. Log 
+the rotations performed while moving back toward the root to maintain AVL tree balance. 
+Also, handle the situation when the key to be deleted is not present in the tree.
