@@ -1,0 +1,13 @@
+## Algorithm
+1. Start.
+2. Create an AVL tree by inserting nodes.
+3. Calculate the height and balance factor of each node.
+4. Search for the node to be deleted.
+5. If the node has exactly one child, replace the node with its child.
+6. Update the height of the affected nodes.
+7. Calculate the balance factor using:
+   Balance Factor = Height of Left Subtree − Height of Right Subtree
+8. If the balance factor becomes greater than 1 or less than −1, perform the appropriate AVL rotation.
+9. Continue updating the heights and balance factors up to the root.
+10. Display the updated AVL tree using inorder traversal.
+11. Stop.
